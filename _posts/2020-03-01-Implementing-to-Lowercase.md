@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Implementing to Lowercase
+title: Implementing toLowercase()
 ---
-
 
 Many languages are case sensitive, so there should be difference between uppercase and lowercase letters. The ASCII value difference between uppercase and lower case letters in alphabet is 32.
 
