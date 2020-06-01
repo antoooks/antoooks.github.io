@@ -2,6 +2,7 @@ command-timeout: 25
 no-response-timeout: 5
 source-dir: .
 ignore-file: .werckerignore
+box: ubuntu:18.04
 build:
   steps:
     - script:
