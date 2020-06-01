@@ -37,11 +37,11 @@ You can check out the memory first, as it is typically a resource that most like
 
 In the middle of learning about this, I stumbled upon an interesting journal. In that journal it is said that there are actual formula to calculate a CPU demand at all times by it's request amount.
 
-![formula](/assets/images/2020-05-28-About-Server-Sizing/formula.png)
+<img src="/assets/images/2020-05-28-About-Server-Sizing/formula.png" alt="formula" width="800px">
 
     Note: We don't need all variables.
 
-![legends](/assets/images/2020-05-28-About-Server-Sizing/legend.png)
+<img src="/assets/images/2020-05-28-About-Server-Sizing/legend.png" alt="legends" width="800px">
 
 For example:
 
@@ -52,7 +52,7 @@ Currently the server with 4 vCPU is handling 2000 request per second, at the pea
 
 Answer:
 
-![answer](/assets/images/2020-05-28-About-Server-Sizing/answer.jpg)
+<img src="/assets/images/2020-05-28-About-Server-Sizing/answer.jpg" alt="answer" width="800px">
 
     Note: Sorry for the bad handwriting :)
 
