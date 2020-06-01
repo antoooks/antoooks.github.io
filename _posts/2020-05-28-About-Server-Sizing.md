@@ -52,7 +52,7 @@ Currently the server with 4 vCPU is handling 2000 request per second, at the pea
 
 Answer:
 
-![answer](/assets/images/2020-05-28-About-Server-Sizing/answer.jpg =800x)
+![answer](/assets/images/2020-05-28-About-Server-Sizing/answer.jpg)
 
     Note: Sorry for the bad handwriting :)
 
