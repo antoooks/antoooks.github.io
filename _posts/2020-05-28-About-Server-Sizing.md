@@ -37,23 +37,22 @@ You can check out the memory first, as it is typically a resource that most like
 
 In the middle of learning about this, I stumbled upon an interesting journal. In that journal it is said that there are actual formula to calculate a CPU demand at all times by it's request amount.
 
-![formula](./images/2020-05-28-About-Server-Sizing/formula.png)
+![formula](images/2020-05-28-About-Server-Sizing/formula.png)
 
     Note: We don't need all variables.
 
-![legends](./images/2020-05-28-About-Server-Sizing/legend.png)
+![legends](images/2020-05-28-About-Server-Sizing/legend.png)
 
 For example:
 
-```
+
 In an interview at Boogle, you are given this question: 
 
 Currently the server with 4 vCPU is handling 2000 request per second, at the peak hour the request will jump as high as 5000 request per second. How many vCPU you need to increase to handle the requests during peak hour?
-```
 
 Answer:
 
-![answer](./images/2020-05-28-About-Server-Sizing/answer.png)
+![answer](images/2020-05-28-About-Server-Sizing/answer.jpg)
 
     Note: Sorry for the bad handwriting :)
 

@@ -1,0 +1,8 @@
+command-timeout: 25
+no-response-timeout: 5
+source-dir: .
+ignore-file: .werckerignore
+build:
+  steps:
+    - script:
+        code: echo "hello, world!"
