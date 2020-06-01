@@ -33,7 +33,7 @@ You can check out the memory first, as it is typically a resource that most like
 - A good rule of thumb: A single core supports 4 VMs, this may vary from 1-2 VMs per core to 8-10 VMs per core
 - When server sizing, you should always have at least one more core than the maximum number of vCPUs assigned to a single VM.
 - More CPU core means more threads, usually each core can handle **2 threads**. But there are also exist special processors that has 4 to 8 threads per core, like the SPARC processor. 
-- More threads means more task can be done simultaneously, which makes the CPU perfomance better and effectively faster.
+- More threads means more task can be done simultaneously, which makes the CPU perfomance better and effectively faster dependending on how the program runs*.
 
 In the middle of learning about this, I stumbled upon an interesting journal. In that journal it is said that there are actual formula to calculate a CPU demand at all times by it's request amount.
 
@@ -81,11 +81,15 @@ You can google how to manually count all of that parameters for measurement and 
 
 - You can virtualize physical HDD as virtual hard disks or pass-through hard disks.
 - Virtual disks retain its original disk and file format.
-- SSD give more performance than HDD
-- More disks means more performance, more RAID group also increase performance
+- SSD gives better performance than HDD. However, not all application needs SSD.
+- More disks means more performance.
+- More RAID group gives better redundancy, but not significantly improve the system performance.
 - Rule of thumb #1: When provisioning add all storage used by the VMs + 10%-20% additional space for VM files and snapshot
 - Rule of thumb #2: Use 80% of capacity of physical HDD for VMs, leaving 20% for spare
 
+## Discussion
+
+*) If the program is complex enough that it can be broken down into several piece of instructions and the program enables the tasks to be done in parallel.
 
 ## References
 - [https://searchservervirtualization.techtarget.com/tip/Sizing-server-hardware-for-virtual-machines](https://searchservervirtualization.techtarget.com/tip/Sizing-server-hardware-for-virtual-machines)
