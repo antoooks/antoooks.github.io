@@ -48,7 +48,7 @@ For example:
 
 In an interview at Boogle, you are given this question: 
 
-Currently the server with 4 vCPU is handling 2000 request per second, at the peak hour the request will jump as high as 5000 request per second. How many vCPU you need to increase to handle the requests during peak hour?
+Currently the server with 4 vCPU is handling 2000 request per second, at the peak hour the request will jump as high as 5000 request per second. How many vCPU you need to handle the requests during peak hour?
 
 Answer:
 
