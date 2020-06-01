@@ -37,11 +37,11 @@ You can check out the memory first, as it is typically a resource that most like
 
 In the middle of learning about this, I stumbled upon an interesting journal. In that journal it is said that there are actual formula to calculate a CPU demand at all times by it's request amount.
 
-![formula](/assets/images/2020-05-28-About-Server-Sizing/formula.png =800x)
+![formula](/assets/images/2020-05-28-About-Server-Sizing/formula.png)
 
     Note: We don't need all variables.
 
-![legends](/assets/images/2020-05-28-About-Server-Sizing/legend.png =800x)
+![legends](/assets/images/2020-05-28-About-Server-Sizing/legend.png)
 
 For example:
 
