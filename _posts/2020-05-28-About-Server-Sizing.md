@@ -35,7 +35,7 @@ You can check out the memory first, as it is typically a resource that most like
 - More CPU core means more threads, usually each core can handle **2 threads**. But there are also exist special processors that has 4 to 8 threads per core, like the SPARC processor. 
 - More threads means more task can be done simultaneously, which makes the CPU perfomance better and effectively faster dependending on how the program runs*.
 
-In the middle of learning about this, I stumbled upon an interesting journal. In that journal it is said that there are actual formula to calculate a CPU demand at all times by it's request amount.
+In the middle of learning about this, I stumbled upon an interesting journal. In that journal it is said that there are actual formula to calculate a CPU demand at all times by its request amount.
 
 <img src="/assets/images/2020-05-28-About-Server-Sizing/formula.png" alt="formula" width="800px">
 
