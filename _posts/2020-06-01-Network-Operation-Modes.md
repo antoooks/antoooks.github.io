@@ -46,3 +46,7 @@ Hope that helps! Good luck with your interviews!
 
 - Hosmer, C. Python Forensics. 2014.
 - Adds pretty good details on this topic. https://medium.com/@debookee/promiscuous-vs-monitoring-mode-d603601f5fa
+
+<hr/>
+
+01 June 2020

@@ -44,3 +44,7 @@ This issue is the one I'm working on right now. I'm training myself to solve mat
 This is the end of the post, please bear with my rant for now. You know, I think you should converse with yourself like this. Like, knowing your weakness is one of must haves, right? Isn't that the reason why some of interviews asking for your SWOT. Think about it.
 
 See you again, readers.
+
+<hr/>
+
+03 June 2020

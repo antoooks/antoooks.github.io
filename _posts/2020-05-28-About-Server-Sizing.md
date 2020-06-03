@@ -95,3 +95,7 @@ You can google how to manually count all of that parameters for measurement and 
 - [https://searchservervirtualization.techtarget.com/tip/Sizing-server-hardware-for-virtual-machines](https://searchservervirtualization.techtarget.com/tip/Sizing-server-hardware-for-virtual-machines)
 - [https://www.kajianpustaka.com/2019/05/pengertian-layanan-dan-parameter-quality-of-service-qos.html](https://www.kajianpustaka.com/2019/05/pengertian-layanan-dan-parameter-quality-of-service-qos.html)
 - [Laubis, K., Simko, V. and Schuller, A., 2007. Cloud Adoption by Fine-Grained Resource Adaptation: Price Determination by Diagonally Scalable IaaS. Communications in Computer and Information Science, [online] pp.249 - 257. Available at: <https://link.springer.com/chapter/10.1007/978-3-319-33313-7_19> [Accessed 28 May 2020].]
+
+<hr/>
+
+28 May 2020

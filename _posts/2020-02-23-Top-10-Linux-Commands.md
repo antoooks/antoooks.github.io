@@ -111,3 +111,7 @@ Note:
 `top` and `lsof` is the most difficult command to understand because it has many features build inside.
 
 Happy reading, if you have any suggestion on the next article please let me know! :)
+
+<hr>
+
+23 February 2020
