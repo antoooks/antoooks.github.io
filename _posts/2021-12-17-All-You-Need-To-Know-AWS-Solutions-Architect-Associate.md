@@ -848,3 +848,6 @@ Trust in yourself and don't be nervous. Good luck on your exam !! 🍀
   - [https://quizlet.com/144321056/aws-certified-solutions-architect-associate-practice-questions-flash-cards/](https://quizlet.com/144321056/aws-certified-solutions-architect-associate-practice-questions-flash-cards/)
   - [https://quizlet.com/123620854/flashcards](https://quizlet.com/123620854/flashcards)
   - [https://quizlet.com/291364595/flashcards](https://quizlet.com/291364595/flashcards)
+
+---- 
+18 December 2021
