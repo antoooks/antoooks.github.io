@@ -437,7 +437,7 @@ ELB features:
   - **Gateway Load Balancer**
 
 
-![](&&&SFLOCALFILEPATH&&&3C2C0481-A0FB-4602-8ADB-C40A09DE15FB.png)
+<img src="/assets/images/2021-12-17-All-You-Need-To-Know-AWS-Solutions-Architect-Associate/20.png" alt="load-balancer-features" width="800px">
 
 ### ELB with EC2 Auto Scaling
 - ELB supports 2 types of health check:
