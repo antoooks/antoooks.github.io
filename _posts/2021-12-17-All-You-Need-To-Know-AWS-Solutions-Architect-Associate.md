@@ -16,7 +16,7 @@ Exam structure:
 - Multiple response (2 or more correct out of 5)
 - 15 unscored questions
 - Total **65 questions**
-- Most of the questions are story-based question (e.g. "You are a solution architect which is trying to migrate a company on-premise NFS to the AWS cloud. What is the right step to do?")
+- Most of the questions are story-based question (e.g. "You are a solution architect who's trying to migrate a company on-premise NFS to the AWS cloud. What is the right step to do?")
 
 For this exam, the minimum passing score is **720** with each question weighing 15-16 points, depending on [the exam difficulty](https://aws.amazon.com/blogs/training-and-certification/demystifying-your-aws-certification-exam-score/)
 
@@ -54,6 +54,7 @@ Choosing regions:
 <img src="/assets/images/2021-12-17-All-You-Need-To-Know-AWS-Solutions-Architect-Associate/2.png" alt="data-state" width="800px">
 
 ### Best Practices on Role-Based Access Control
+
 1. Lock down the AWS root user
 2. Follow the principle of least privilege
 3. Use IAM appropriately
@@ -64,7 +65,7 @@ Choosing regions:
 ### Resource Tagging
 - Maximum key length = 128 unicode characters
 - Maximum value length = 255 unicode characters
-- `aws:` tag prefix is reserver for AWS, we can’t add, edit, or delete tags with this prefix.
+- `aws:` tag prefix is reserved for AWS, we can’t add, edit, or delete tags with this prefix.
 
 - - - -
 ## Compute as a Service
